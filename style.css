@@ -212,7 +212,6 @@ li {
 
 .works-img img {
   border: 1px solid #e6e6e6;
-  height: 280px;
 }
 
 .works-name {
@@ -470,7 +469,7 @@ li {
     margin-bottom: 30px;
   }
   .works-img img{
-    height:150px!important;
+/*     height:150px!important; */
   }
 
   /* Skill */
