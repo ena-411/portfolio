@@ -470,7 +470,7 @@ li {
     margin-bottom: 30px;
   }
   .works-img img{
-    height:150px;
+    height:150px!important;
   }
 
   /* Skill */
