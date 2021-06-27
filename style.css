@@ -290,7 +290,9 @@ li {
 .profile-body p:not(:last-child) {
   margin-bottom: 30px;
 }
-
+.section{
+  background-size:cover;
+}
 /*--------------------------------
  Contact
 ---------------------------------*/
